@@ -2,9 +2,6 @@
 
 ## :fr: :it:
 
-laplastique
-illalelo
-
 Je cherche des mots dont les traductions francaises et italiennens:
 - 1) sont **très ressemblantes**. 
 - 2) ont des **genres opposés**.
