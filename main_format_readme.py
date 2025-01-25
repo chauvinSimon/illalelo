@@ -38,6 +38,12 @@ def add_fra_it(content: str) -> str:
             _df = _df.sort_values(by="French", key=lambda col: col.map(key_without_article))
 
             _df = _df.drop(columns=["category"])
+            # Français
+            _df.rename(columns={
+                'French': 'Français ( :fr: )',
+                'Italian': 'Italien ( :it: )'
+            }, inplace=True)
+
             table = _df.to_markdown(
                 index=False,
                 colalign=["center"] * len(_df.columns)
