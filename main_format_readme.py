@@ -15,7 +15,7 @@ def key_without_article(s):
     articles = ["les ", "la ", "le ", "l'"]
     for article in articles:
         if s.startswith(article):
-            return s[len(article):]
+            return s[len(article):].lower()
     raise ValueError(f"Article not found in {s}")
 
 
