@@ -10,6 +10,8 @@ readme_path = Path("README.md")
 fra_masc_path = Path("fra_masc_ita_fem.yaml")
 fra_fem_path = Path("fra_fem_ita_masc.yaml")
 
+url_text = ":arrow_forward: Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet) :speaking_head: :loud_sound:"
+
 mp3_urls = {
     "fra_masc_1": "https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing",
     "fra_masc_2": "https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing",
@@ -63,7 +65,8 @@ def add_fra_it(content: str) -> str:
             )
 
             url = mp3_urls[f"{p}_{category}"]
-            url_link = f"[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ]({url})"
+
+            url_link = f"[ _{url_text}_ ]({url})"
 
             content = content.replace(content_placeholder + suffix, f"\n{url_link}\n\n{table}\n")
 

@@ -1,9 +1,9 @@
-Je cherche des mots dont les traductions françaises et italiennens:
-- 1) sont **très ressemblantes**. 
-- 2) ont des **genres opposés**.
+Je cherche noms communs dont les traductions françaises et italiennens:
+- 1) sont **très ressemblantes**.
+- 2) ont des **genres opposés**. :male_sign: :female_sign:
 
 Par exemple:
-- `plastique` ( :fr: ) **ressemble au son et à l'oeil** à `plastica` ( :it: ).
+- `plastique` ( :fr: ) **ressemble à l'oreille et à l'oeil** à `plastica` ( :it: ).
 - `le plastique` ( :fr: ) est un nom commun **masculin** mais `la plastica` ( :it: ) est **féminin**.
 
 ---
@@ -12,7 +12,7 @@ Par exemple:
 
 #### :fr: :male_sign: / :it: :female_sign:
 
-[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing)
+[ _:arrow_forward: Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet) :speaking_head: :loud_sound:_ ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing)
 
 |  #  |  Français ( :fr: )  |  Italien ( :it: )  |               :wink:               |
 |:---:|:-------------------:|:------------------:|:----------------------------------:|
@@ -20,21 +20,22 @@ Par exemple:
 |  2  |      le calme       |      la calma      |               :mute:               |
 |  3  |       le chat       |      la chat       | :speech_balloon: (la conversation) |
 |  4  |     le courant      |    la corrente     |              :ocean:               |
-|  5  |      le guide       |      la guida      |             :compass:              |
-|  6  |       le mail       |      la mail       |              :email:               |
-|  7  |     le maillot      |     la maglia      |              :shirt:               |
-|  8  |     le Nutella      |     la Nutella     |          :chocolate_bar:           |
-|  9  |       l'ongle       |      l'unghia      |            :nail_care:             |
-| 10  |       le pipi       |      la pipì       |           :sweat_drops:            |
-| 11  |    le plastique     |    la plastica     |          :lotion_bottle:           |
-| 12  |      le sable       |     la sabbia      |          :beach_umbrella:          |
-| 13  |      le sauna       |      la sauna      |             :hot_face:             |
+|  5  |      le front       |     la fronte      |      :face_with_head_bandage:      |
+|  6  |      le guide       |      la guida      |             :compass:              |
+|  7  |       le mail       |      la mail       |              :email:               |
+|  8  |     le maillot      |     la maglia      |              :shirt:               |
+|  9  |     le Nutella      |     la Nutella     |          :chocolate_bar:           |
+| 10  |       l'ongle       |      l'unghia      |            :nail_care:             |
+| 11  |       le pipi       |      la pipì       |           :sweat_drops:            |
+| 12  |    le plastique     |    la plastica     |          :lotion_bottle:           |
+| 13  |      le sable       |     la sabbia      |          :beach_umbrella:          |
+| 14  |      le sauna       |      la sauna      |             :hot_face:             |
 
 ---
 
 #### :fr: :female_sign: / :it: :male_sign:
 
-[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing)
+[ _:arrow_forward: Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet) :speaking_head: :loud_sound:_ ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing)
 
 |  #  |  Français ( :fr: )  |  Italien ( :it: )  |           :wink:           |
 |:---:|:-------------------:|:------------------:|:--------------------------:|
@@ -81,7 +82,7 @@ Par exemple:
 
 #### :fr: :male_sign: / :it: :female_sign:
 
-[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing)
+[ _:arrow_forward: Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet) :speaking_head: :loud_sound:_ ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing)
 
 |  #  |  Français ( :fr: )  |  Italien ( :it: )  |      :wink:       |
 |:---:|:-------------------:|:------------------:|:-----------------:|
@@ -106,7 +107,7 @@ Par exemple:
 
 #### :fr: :female_sign: / :it: :male_sign:
 
-[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing)
+[ _:arrow_forward: Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet) :speaking_head: :loud_sound:_ ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing)
 
 |  #  |  Français ( :fr: )  |     Italien ( :it: )      |       :wink:        |
 |:---:|:-------------------:|:-------------------------:|:-------------------:|
@@ -130,3 +131,11 @@ Par exemple:
 | 18  |     la terrasse     | il terrazzo (la terrazza) | :house_with_garden: |
 | 19  |      la toile       |          il telo          |    :spider_web:     |
 | 20  |     la trahison     |       il tradimento       |   :broken_heart:    |
+
+---
+---
+
+J'espère que ces tableaux vous ont plu!
+- Si vous avez des **suggestions**, des **corrections** ou des commentaires, n'hésitez pas à m'envoyer une message à `simon.chauvin.contact[at]gmail.com`.
+- Ciao,
+- Simon :smiley:
