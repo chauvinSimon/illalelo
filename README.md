@@ -40,6 +40,7 @@ Par exemple:
 |      l'arrivée      |      l'arrivo      |              |
 |   l'augmentation    |     l'aumento      |              |
 |     la capuche      |    il cappuccio    |              |
+|     la capuche      |    il cappuccio    |              |
 |     la chaleur      |     il calore      |              |
 |     la couleur      |     il colore      | :paintbrush: |
 |       la dent       |      il dente      |   :tooth:    |
@@ -62,8 +63,10 @@ Par exemple:
 |     la peluche      |     il peluche     |              |
 |      la pensée      |    il pensiero     |              |
 |     la récolte      |    il raccolto     |              |
+|      le sauna       |      la sauna      |              |
 |      la saveur      |     il sapore      |              |
 |     la seconde      |     il secondo     |              |
+|  la signigication   |   il significato   |              |
 |    la splendeur     |    lo splendore    |              |
 |     la terreur      |     il terrore     |              |
 |      la valeur      |     il valore      |              |
@@ -98,25 +101,27 @@ Par exemple:
 
 #### :fr: :female_sign: / :it: :male_sign:
 
-|  Français ( :fr: )  |  Italien ( :it: )  |  Notes  |
-|:-------------------:|:------------------:|:-------:|
-|       l'aide        |      l'aiuto       |         |
-|     l'aiguille      |       l'ago        |         |
-|     l'aiguille      |       il ago       |         |
-|      l'armoire      |     l'armadio      |         |
-|      l'auberge      |     l'albergo      |         |
-|    la chaussette    |   il calzettino    |         |
-|  la deterioration   | il deterioramento  |         |
-|      la dette       |     il debito      |         |
-|     la feuille      |     il foglio      |         |
-|      la fleur       |      il fiore      | :tulip: |
-|      la foudre      |     il fulmine     |         |
-|      la glace       |    il ghiaccio     |         |
-|       l'huile       |       l'olio       | :olive: |
-|     la natation     |      il nuoto      |         |
-|      la place       |     lo spazio      |         |
-|      la sueur       |     il sudore      |         |
-|      la suite       |     il seguito     |         |
-|      la table       |     il tavolo      |         |
-|      la toile       |      il telo       |         |
-|     la trahison     |   il tradimento    |         |
+|  Français ( :fr: )  |  Italien ( :it: )  |    Notes    |
+|:-------------------:|:------------------:|:-----------:|
+|       l'aide        |      l'aiuto       |             |
+|     l'aiguille      |       il ago       |             |
+|     l'aiguille      |       l'ago        |             |
+|      l'armoire      |     l'armadio      |             |
+|      l'auberge      |     l'albergo      |             |
+|      les bras       |     le braccia     |  :muscle:   |
+|    la chaussette    |   il calzettino    |             |
+|  la deterioration   | il deterioramento  |             |
+|      la dette       |     il debito      |             |
+|     la feuille      |     il foglio      |             |
+|      la fleur       |      il fiore      |   :tulip:   |
+|      la foudre      |     il fulmine     |             |
+|      la glace       |    il ghiaccio     |             |
+|       l'huile       |       l'olio       |   :olive:   |
+|     la natation     |      il nuoto      |             |
+|      la place       |     lo spazio      |             |
+|      la sueur       |     il sudore      |             |
+|      la suite       |     il seguito     |             |
+|      la table       |     il tavolo      |             |
+|     la terrasse     |    il terrazzo     | la terrazza |
+|      la toile       |      il telo       |             |
+|     la trahison     |   il tradimento    |             |
