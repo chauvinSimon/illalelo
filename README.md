@@ -27,6 +27,7 @@ Par exemple:
 |       le pipi       |      la pipi       |                  |
 |    le plastique     |    la plastica     | :lotion_bottle:  |
 |      le sable       |     la sabbia      | :beach_umbrella: |
+|      le sauna       |      la sauna      |                  |
 
 ---
 
@@ -63,7 +64,6 @@ Par exemple:
 |     la peluche      |     il peluche     |              |
 |      la pensée      |    il pensiero     |              |
 |     la récolte      |    il raccolto     |              |
-|      le sauna       |      la sauna      |              |
 |      la saveur      |     il sapore      |              |
 |     la seconde      |     il secondo     |              |
 |  la signigication   |   il significato   |              |
@@ -79,23 +79,24 @@ Par exemple:
 
 #### :fr: :male_sign: / :it: :female_sign:
 
-|  Français ( :fr: )  |  Italien ( :it: )  |  Notes  |
-|:-------------------:|:------------------:|:-------:|
-|       l'aide        |      l'aiuto       |         |
-|       le banc       |      la panca      |         |
-|      le choix       |     la scelta      |         |
-|      le couple      |     la coppia      |         |
-|      le départ      |    la partenza     |         |
-|    les escaliers    |      le scale      |         |
-|      l'espoir       |    l'esperienza    |         |
-|      le masque      |    la maschera     |         |
-|      le nuage       |     la nuvola      |         |
-|   le renoncement    |    la rinuncia     |         |
-|      le réseau      |      la rete       |         |
-|      le réveil      |     la sveglia     |         |
-|      le singe       |     la scimmia     |         |
-|      le sommet      |      la cima       |         |
-|        l'été        |     il estate      |         |
+|  Français ( :fr: )  |  Italien ( :it: )  |  Notes   |
+|:-------------------:|:------------------:|:--------:|
+|       l'aide        |      l'aiuto       |          |
+|       le banc       |      la panca      |          |
+|      les bras       |     le braccia     | :muscle: |
+|      le choix       |     la scelta      |          |
+|      le couple      |     la coppia      |          |
+|      le départ      |    la partenza     |          |
+|    les escaliers    |      le scale      |          |
+|      l'espoir       |    l'esperienza    |          |
+|      le masque      |    la maschera     |          |
+|      le nuage       |     la nuvola      |          |
+|   le renoncement    |    la rinuncia     |          |
+|      le réseau      |      la rete       |          |
+|      le réveil      |     la sveglia     |          |
+|      le singe       |     la scimmia     |          |
+|      le sommet      |      la cima       |          |
+|        l'été        |     il estate      |          |
 
 ---
 
@@ -108,7 +109,6 @@ Par exemple:
 |     l'aiguille      |       l'ago        |             |
 |      l'armoire      |     l'armadio      |             |
 |      l'auberge      |     l'albergo      |             |
-|      les bras       |     le braccia     |  :muscle:   |
 |    la chaussette    |   il calzettino    |             |
 |  la deterioration   | il deterioramento  |             |
 |      la dette       |     il debito      |             |
