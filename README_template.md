@@ -52,4 +52,4 @@ J'espère que ces tableaux vous ont plu!
 - Ciao!
 - Simon :smiley:
 
-PS: Peut-être cet autre projet personnel, cette fois-ci à la recherche de mots avec des consonances différentes, vous interessera: [5 lingue ( :fr: + :it: + :de: + :uk: + :es: )](https://github.com/chauvinSimon/lingue/blob/master/README.md).
+PS: Peut-être cet autre projet personnel, cette fois-ci à la recherche de mots avec des consonances toutes différentes dans cinq langues, vous interessera: **[5 lingue ( :fr: / :it: / :de: / :uk: / :es: )](https://github.com/chauvinSimon/lingue/blob/master/README.md)**.
