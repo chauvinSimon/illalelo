@@ -58,7 +58,7 @@ def generate_tts(
             segment = AudioSegment.from_mp3(str(temp_file))
             audio_segments.append(segment + pause)
 
-        # concatenate 5 languages
+        # concatenate fra + it
         combined = sum(audio_segments)
         combined.export(str(saving_path), format="mp3")
 
@@ -82,7 +82,8 @@ def generate_tts(
 
     final_audio = AudioSegment.empty()
     for file in all_files:
-        final_audio += AudioSegment.from_mp3(file) + pause
+        final_audio += pause + AudioSegment.from_mp3(file)
+    final_audio += pause
 
     saving_path = saving_root_dir / f"{prefix}__{len(all_files)}_rows.mp3"
     # if not saving_path.exists() and overwrite:
