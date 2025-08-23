@@ -26,7 +26,7 @@ def add_fra_it(content: str) -> str:
     ):
         df = pd.DataFrame(
             yaml_load(file_path=file_path),
-            columns=["category", "French", "Italian", "Notes"]
+            columns=["category", "French", "Italian", " :wink: "]
         )
 
         for category, suffix in zip(
