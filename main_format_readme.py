@@ -10,6 +10,12 @@ readme_path = Path("README.md")
 fra_masc_path = Path("fra_masc_ita_fem.yaml")
 fra_fem_path = Path("fra_fem_ita_masc.yaml")
 
+mp3_urls = {
+    "fra_masc_1": "https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing",
+    "fra_masc_2": "https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing",
+    "fra_fem_1": "https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing",
+    "fra_fem_2": "https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing",
+}
 
 # sort alphabetically
 def key_without_article(s):
@@ -56,7 +62,10 @@ def add_fra_it(content: str) -> str:
                 colalign=["center"] * len(_df.columns)
             )
 
-            content = content.replace(content_placeholder + suffix, f"\n{table}\n")
+            url = mp3_urls[f"{p}_{category}"]
+            url_link = f"[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ]({url})"
+
+            content = content.replace(content_placeholder + suffix, f"\n{url_link}\n\n{table}\n")
 
     return content
 

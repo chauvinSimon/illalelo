@@ -12,6 +12,8 @@ Par exemple:
 
 #### :fr: :male_sign: / :it: :female_sign:
 
+[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing)
+
 |  #  |  Français ( :fr: )  |  Italien ( :it: )  |               :wink:               |
 |:---:|:-------------------:|:------------------:|:----------------------------------:|
 |  1  |      l'abricot      |    l'albicocca     |              :peach:               |
@@ -31,6 +33,8 @@ Par exemple:
 ---
 
 #### :fr: :female_sign: / :it: :male_sign:
+
+[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing)
 
 |  #  |  Français ( :fr: )  |  Italien ( :it: )  |           :wink:           |
 |:---:|:-------------------:|:------------------:|:--------------------------:|
@@ -77,6 +81,8 @@ Par exemple:
 
 #### :fr: :male_sign: / :it: :female_sign:
 
+[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing)
+
 |  #  |  Français ( :fr: )  |  Italien ( :it: )  |      :wink:       |
 |:---:|:-------------------:|:------------------:|:-----------------:|
 |  1  |       le banc       |      la panca      |      :chair:      |
@@ -99,6 +105,8 @@ Par exemple:
 ---
 
 #### :fr: :female_sign: / :it: :male_sign:
+
+[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing)
 
 |  #  |  Français ( :fr: )  |     Italien ( :it: )      |       :wink:        |
 |:---:|:-------------------:|:-------------------------:|:-------------------:|
