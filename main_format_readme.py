@@ -1,6 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
+from tts import generate_tts
 from utils import read_file, save_file, yaml_load
 
 readme_template_path = Path("README_template.md")
@@ -38,13 +39,17 @@ def add_fra_it(content: str) -> str:
             _df = _df.sort_values(by="French", key=lambda col: col.map(key_without_article))
 
             _df = _df.drop(columns=["category"])
+
+            _df.insert(0, "#", range(1, len(_df) + 1))
+
+            p = content_placeholder.replace('\nCONTENT_', '').lower()
+            generate_tts(_df, prefix=f"{p}_{category}")
+
             # Français
             _df.rename(columns={
                 'French': 'Français ( :fr: )',
                 'Italian': 'Italien ( :it: )'
             }, inplace=True)
-
-            _df.insert(0, "", range(1, len(_df) + 1))
 
             table = _df.to_markdown(
                 index=False,
