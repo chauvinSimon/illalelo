@@ -44,6 +44,8 @@ def add_fra_it(content: str) -> str:
                 'Italian': 'Italien ( :it: )'
             }, inplace=True)
 
+            _df.insert(0, "", range(1, len(_df) + 1))
+
             table = _df.to_markdown(
                 index=False,
                 colalign=["center"] * len(_df.columns)

@@ -12,65 +12,65 @@ Par exemple:
 
 #### :fr: :male_sign: / :it: :female_sign:
 
-|  Français ( :fr: )  |  Italien ( :it: )  |      Notes       |
-|:-------------------:|:------------------:|:----------------:|
-|      l'abricot      |    l'albicocca     |                  |
-|       le caca       |      la caca       |                  |
-|      le calme       |      la calma      |      :mute:      |
-|       le chat       |      la chat       | la conversation  |
-|     le courant      |    la corrente     |                  |
-|      le guide       |      la guida      |                  |
-|       le mail       |      la mail       |                  |
-|     le maillot      |     la maglia      |                  |
-|     le Nutella      |     la Nutella     |                  |
-|       l'ongle       |      l'unghia      |                  |
-|       le pipi       |      la pipi       |                  |
-|    le plastique     |    la plastica     | :lotion_bottle:  |
-|      le sable       |     la sabbia      | :beach_umbrella: |
-|      le sauna       |      la sauna      |                  |
+|    |  Français ( :fr: )  |  Italien ( :it: )  |      Notes       |
+|:--:|:-------------------:|:------------------:|:----------------:|
+| 1  |      l'abricot      |    l'albicocca     |                  |
+| 2  |       le caca       |      la caca       |                  |
+| 3  |      le calme       |      la calma      |      :mute:      |
+| 4  |       le chat       |      la chat       | la conversation  |
+| 5  |     le courant      |    la corrente     |                  |
+| 6  |      le guide       |      la guida      |                  |
+| 7  |       le mail       |      la mail       |                  |
+| 8  |     le maillot      |     la maglia      |                  |
+| 9  |     le Nutella      |     la Nutella     |                  |
+| 10 |       l'ongle       |      l'unghia      |                  |
+| 11 |       le pipi       |      la pipi       |                  |
+| 12 |    le plastique     |    la plastica     | :lotion_bottle:  |
+| 13 |      le sable       |     la sabbia      | :beach_umbrella: |
+| 14 |      le sauna       |      la sauna      |                  |
 
 ---
 
 #### :fr: :female_sign: / :it: :male_sign:
 
-|  Français ( :fr: )  |  Italien ( :it: )  |    Notes     |
-|:-------------------:|:------------------:|:------------:|
-|     l'approche      |    l'approccio     |              |
-|       l'arche       |       l'arco       |              |
-|    l'arrestation    |     l'arresto      |              |
-|      l'arrivée      |      l'arrivo      |              |
-|   l'augmentation    |     l'aumento      |              |
-|     la capuche      |    il cappuccio    |              |
-|     la capuche      |    il cappuccio    |              |
-|     la chaleur      |     il calore      |              |
-|     la couleur      |     il colore      | :paintbrush: |
-|       la dent       |      il dente      |   :tooth:    |
-|     la douleur      |     il dolore      |              |
-|      l'erreur       |      l'errore      |              |
-|      la faveur      |     il favore      |              |
-|       la fin        |      il fine       | la finalité  |
-|      la furie       |     il furore      |              |
-|      l'horloge      |     l'orologio     |              |
-|      l'horreur      |      l'orrore      |              |
-|     l'infusion      |     il infuso      |              |
-|   l'intervention    |    l'intervento    |              |
-|       la mer        |      il mare       |              |
-|      la minute      |     il minuto      |              |
-|     la méthode      |     il metodo      |              |
-|       l'odeur       |      il odore      |              |
-|      l'oreille      |     l'orecchio     |    :ear:     |
-|    l'orientation    |   l'orientamento   |              |
-|      la paire       |      il paio       |              |
-|     la peluche      |     il peluche     |              |
-|      la pensée      |    il pensiero     |              |
-|     la récolte      |    il raccolto     |              |
-|      la saveur      |     il sapore      |              |
-|     la seconde      |     il secondo     |              |
-|  la signigication   |   il significato   |              |
-|    la splendeur     |    lo splendore    |              |
-|     la terreur      |     il terrore     |              |
-|      la valeur      |     il valore      |              |
-|      la vapeur      |     il vapore      |              |
+|    |  Français ( :fr: )  |  Italien ( :it: )  |    Notes     |
+|:--:|:-------------------:|:------------------:|:------------:|
+| 1  |     l'approche      |    l'approccio     |              |
+| 2  |       l'arche       |       l'arco       |              |
+| 3  |    l'arrestation    |     l'arresto      |              |
+| 4  |      l'arrivée      |      l'arrivo      |              |
+| 5  |   l'augmentation    |     l'aumento      |              |
+| 6  |     la capuche      |    il cappuccio    |              |
+| 7  |     la capuche      |    il cappuccio    |              |
+| 8  |     la chaleur      |     il calore      |              |
+| 9  |     la couleur      |     il colore      | :paintbrush: |
+| 10 |       la dent       |      il dente      |   :tooth:    |
+| 11 |     la douleur      |     il dolore      |              |
+| 12 |      l'erreur       |      l'errore      |              |
+| 13 |      la faveur      |     il favore      |              |
+| 14 |       la fin        |      il fine       | la finalité  |
+| 15 |      la furie       |     il furore      |              |
+| 16 |      l'horloge      |     l'orologio     |              |
+| 17 |      l'horreur      |      l'orrore      |              |
+| 18 |     l'infusion      |     il infuso      |              |
+| 19 |   l'intervention    |    l'intervento    |              |
+| 20 |       la mer        |      il mare       |              |
+| 21 |      la minute      |     il minuto      |              |
+| 22 |     la méthode      |     il metodo      |              |
+| 23 |       l'odeur       |      il odore      |              |
+| 24 |      l'oreille      |     l'orecchio     |    :ear:     |
+| 25 |    l'orientation    |   l'orientamento   |              |
+| 26 |      la paire       |      il paio       |              |
+| 27 |     la peluche      |     il peluche     |              |
+| 28 |      la pensée      |    il pensiero     |              |
+| 29 |     la récolte      |    il raccolto     |              |
+| 30 |      la saveur      |     il sapore      |              |
+| 31 |     la seconde      |     il secondo     |              |
+| 32 |  la signigication   |   il significato   |              |
+| 33 |    la splendeur     |    lo splendore    |              |
+| 34 |     la terreur      |     il terrore     |              |
+| 35 |      la valeur      |     il valore      |              |
+| 36 |      la vapeur      |     il vapore      |              |
 
 ---
 ---
@@ -79,49 +79,49 @@ Par exemple:
 
 #### :fr: :male_sign: / :it: :female_sign:
 
-|  Français ( :fr: )  |  Italien ( :it: )  |  Notes   |
-|:-------------------:|:------------------:|:--------:|
-|       l'aide        |      l'aiuto       |          |
-|       le banc       |      la panca      |          |
-|      les bras       |     le braccia     | :muscle: |
-|      le choix       |     la scelta      |          |
-|      le couple      |     la coppia      |          |
-|      le départ      |    la partenza     |          |
-|    les escaliers    |      le scale      |          |
-|      l'espoir       |    l'esperienza    |          |
-|      le masque      |    la maschera     |          |
-|      le nuage       |     la nuvola      |          |
-|   le renoncement    |    la rinuncia     |          |
-|      le réseau      |      la rete       |          |
-|      le réveil      |     la sveglia     |          |
-|      le singe       |     la scimmia     |          |
-|      le sommet      |      la cima       |          |
-|        l'été        |     il estate      |          |
+|    |  Français ( :fr: )  |  Italien ( :it: )  |  Notes   |
+|:--:|:-------------------:|:------------------:|:--------:|
+| 1  |       l'aide        |      l'aiuto       |          |
+| 2  |       le banc       |      la panca      |          |
+| 3  |      les bras       |     le braccia     | :muscle: |
+| 4  |      le choix       |     la scelta      |          |
+| 5  |      le couple      |     la coppia      |          |
+| 6  |      le départ      |    la partenza     |          |
+| 7  |    les escaliers    |      le scale      |          |
+| 8  |      l'espoir       |    l'esperienza    |          |
+| 9  |      le masque      |    la maschera     |          |
+| 10 |      le nuage       |     la nuvola      |          |
+| 11 |   le renoncement    |    la rinuncia     |          |
+| 12 |      le réseau      |      la rete       |          |
+| 13 |      le réveil      |     la sveglia     |          |
+| 14 |      le singe       |     la scimmia     |          |
+| 15 |      le sommet      |      la cima       |          |
+| 16 |        l'été        |     il estate      |          |
 
 ---
 
 #### :fr: :female_sign: / :it: :male_sign:
 
-|  Français ( :fr: )  |  Italien ( :it: )  |    Notes    |
-|:-------------------:|:------------------:|:-----------:|
-|       l'aide        |      l'aiuto       |             |
-|     l'aiguille      |       il ago       |             |
-|     l'aiguille      |       l'ago        |             |
-|      l'armoire      |     l'armadio      |             |
-|      l'auberge      |     l'albergo      |             |
-|    la chaussette    |   il calzettino    |             |
-|  la deterioration   | il deterioramento  |             |
-|      la dette       |     il debito      |             |
-|     la feuille      |     il foglio      |             |
-|      la fleur       |      il fiore      |   :tulip:   |
-|      la foudre      |     il fulmine     |             |
-|      la glace       |    il ghiaccio     |             |
-|       l'huile       |       l'olio       |   :olive:   |
-|     la natation     |      il nuoto      |             |
-|      la place       |     lo spazio      |             |
-|      la sueur       |     il sudore      |             |
-|      la suite       |     il seguito     |             |
-|      la table       |     il tavolo      |             |
-|     la terrasse     |    il terrazzo     | la terrazza |
-|      la toile       |      il telo       |             |
-|     la trahison     |   il tradimento    |             |
+|    |  Français ( :fr: )  |  Italien ( :it: )  |    Notes    |
+|:--:|:-------------------:|:------------------:|:-----------:|
+| 1  |       l'aide        |      l'aiuto       |             |
+| 2  |     l'aiguille      |       il ago       |             |
+| 3  |     l'aiguille      |       l'ago        |             |
+| 4  |      l'armoire      |     l'armadio      |             |
+| 5  |      l'auberge      |     l'albergo      |             |
+| 6  |    la chaussette    |   il calzettino    |             |
+| 7  |  la deterioration   | il deterioramento  |             |
+| 8  |      la dette       |     il debito      |             |
+| 9  |     la feuille      |     il foglio      |             |
+| 10 |      la fleur       |      il fiore      |   :tulip:   |
+| 11 |      la foudre      |     il fulmine     |             |
+| 12 |      la glace       |    il ghiaccio     |             |
+| 13 |       l'huile       |       l'olio       |   :olive:   |
+| 14 |     la natation     |      il nuoto      |             |
+| 15 |      la place       |     lo spazio      |             |
+| 16 |      la sueur       |     il sudore      |             |
+| 17 |      la suite       |     il seguito     |             |
+| 18 |      la table       |     il tavolo      |             |
+| 19 |     la terrasse     |    il terrazzo     | la terrazza |
+| 20 |      la toile       |      il telo       |             |
+| 21 |     la trahison     |   il tradimento    |             |
