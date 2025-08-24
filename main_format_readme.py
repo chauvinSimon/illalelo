@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-from tts import generate_tts
+from tts import generate_tts, merge_audio_files
 from utils import read_file, save_file, yaml_load
 
 readme_template_path = Path("README_template.md")
@@ -37,6 +37,15 @@ def add_fra_it(content: str) -> str:
             yaml_load(file_path=file_path),
             columns=["category", "French", "Italian", " :wink: "]
         )
+
+        # detect duplicates
+        df_lower = df.apply(lambda x: x.str.lower() if x.dtype == "object" else x)
+        for column_to_check in ["French", "Italian"]:
+            dup = df_lower[df_lower.duplicated([column_to_check], keep=False)]
+            if not dup.empty:
+                print(f"in {column_to_check}: ")
+                for du in dup[column_to_check].unique():
+                    print(f"\tduplicate: {du}")
 
         for category, suffix in zip(
                 [1, 2],
@@ -77,6 +86,8 @@ def main() -> None:
     content = read_file(file_path=readme_template_path)
     content = add_fra_it(content)
     save_file(file_path=readme_path, content=content)
+
+    merge_audio_files()
 
 if __name__ == '__main__':
     main()

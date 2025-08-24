@@ -3,12 +3,28 @@ import pandas as pd
 from gtts import gTTS
 from pydub import AudioSegment
 
+saving_root_dir = Path("tts_output")
+saving_root_dir.mkdir(exist_ok=True)
+
+
+def merge_audio_files():
+    audio_files = saving_root_dir.glob("*.mp3")
+    audio_files = sorted(audio_files, key=lambda x: x.name)
+
+    audio_segments = [AudioSegment.from_mp3(str(audio_file)) for audio_file in audio_files]
+    final_audio = sum(audio_segments)
+
+    saving_path = saving_root_dir / "final.mp3"
+    final_audio.export(saving_path, format="mp3")
+    print(f"🎉 final generated : {saving_path}")
+
+
 
 def generate_tts(
         df: pd.DataFrame,
         prefix: str = "",
         overwrite: bool = False,
-        pause_duration_ms: int = 1000,
+        pause_duration_ms: int = 800,
 ):
     print("\n")
     # df = df[:3]
@@ -20,7 +36,6 @@ def generate_tts(
         "Italian": "it",
     }
 
-    saving_root_dir = Path("tts_output")
     saving_dir = saving_root_dir / prefix
     saving_dir.mkdir(exist_ok=True, parents=True)
 
@@ -49,7 +64,8 @@ def generate_tts(
         audio_segments = []
 
         for lang in lang_map.keys():
-            text = row[lang]
+            text = row[lang].replace("_", "")
+            text = text.replace("le chat ", "le tchat ")  # temp fix
             lang_code = lang_map[lang]
 
             temp_file = saving_dir / f"tmp_{lang}.mp3"
