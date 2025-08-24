@@ -8,13 +8,15 @@ saving_root_dir.mkdir(exist_ok=True)
 
 
 def merge_audio_files():
+    saving_path = saving_root_dir / "final.mp3"
+
     audio_files = saving_root_dir.glob("*.mp3")
     audio_files = sorted(audio_files, key=lambda x: x.name)
+    audio_files = [a for a in audio_files if a != saving_path.name]
 
     audio_segments = [AudioSegment.from_mp3(str(audio_file)) for audio_file in audio_files]
     final_audio = sum(audio_segments)
 
-    saving_path = saving_root_dir / "final.mp3"
     final_audio.export(saving_path, format="mp3")
     print(f"🎉 final generated : {saving_path}")
 
