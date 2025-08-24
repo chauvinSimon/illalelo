@@ -9,8 +9,8 @@ Par exemple :
 ---
 
 Organisation:
-- Les meilleurs examples sont répertoriés dans la partie [ :1st_place_medal: PREMIER CHOIX](#1st_place_medal-premier-choix).
-- Les autres dans [ :2nd_place_medal: SECOND CHOIX](#2nd_place_medal-second-choix).
+- Les meilleurs examples sont répertoriés dans la partie **[ :1st_place_medal: PREMIER CHOIX](#1st_place_medal-premier-choix)**.
+- Les autres dans **[ :2nd_place_medal: SECOND CHOIX](#2nd_place_medal-second-choix)**.
 - Dans chaque partie, deux tableaux sont présentés :
   - Mots masculins français / féminins italiens.
   - Mots féminins français / masculins italiens.

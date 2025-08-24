@@ -10,7 +10,7 @@ readme_path = Path("README.md")
 fra_masc_path = Path("fra_masc_ita_fem.yaml")
 fra_fem_path = Path("fra_fem_ita_masc.yaml")
 
-url_text = "_Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_"
+url_text = "_Écoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_"
 
 mp3_urls = {
     "fra_masc_1": "https://drive.google.com/file/d/139KW9ru4Fcga4WGgYVO7ffmBMN9cu5-2/view?usp=sharing",

@@ -9,8 +9,8 @@ Par exemple :
 ---
 
 Organisation:
-- Les meilleurs examples sont répertoriés dans la partie [ :1st_place_medal: PREMIER CHOIX](#1st_place_medal-premier-choix).
-- Les autres dans [ :2nd_place_medal: SECOND CHOIX](#2nd_place_medal-second-choix).
+- Les meilleurs examples sont répertoriés dans la partie **[ :1st_place_medal: PREMIER CHOIX](#1st_place_medal-premier-choix)**.
+- Les autres dans **[ :2nd_place_medal: SECOND CHOIX](#2nd_place_medal-second-choix)**.
 - Dans chaque partie, deux tableaux sont présentés :
   - Mots masculins français / féminins italiens.
   - Mots féminins français / masculins italiens.
@@ -21,7 +21,7 @@ Organisation:
 
 #### :fr: :male_sign: / :it: :female_sign:
 
-:arrow_forward: [ _Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/139KW9ru4Fcga4WGgYVO7ffmBMN9cu5-2/view?usp=sharing) :speaking_head: :loud_sound:
+:arrow_forward: [ _Écoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/139KW9ru4Fcga4WGgYVO7ffmBMN9cu5-2/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |  Français ( :fr: )  |  Italien ( :it: )  |                :wink:                |
 |:---:|:-------------------:|:------------------:|:------------------------------------:|
@@ -43,7 +43,7 @@ Organisation:
 
 #### :fr: :female_sign: / :it: :male_sign:
 
-:arrow_forward: [ _Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/1pCG3QjQz16iGJ0AkhereLBoaU8T2Md0u/view?usp=sharing) :speaking_head: :loud_sound:
+:arrow_forward: [ _Écoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/1pCG3QjQz16iGJ0AkhereLBoaU8T2Md0u/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |  Français ( :fr: )  |  Italien ( :it: )  |          :wink:          |
 |:---:|:-------------------:|:------------------:|:------------------------:|
@@ -80,7 +80,7 @@ Organisation:
 
 #### :fr: :male_sign: / :it: :female_sign:
 
-:arrow_forward: [ _Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/1f_2OW-AWYdrr_osAJ_PLxEOs0Nsn_Cnw/view?usp=sharing) :speaking_head: :loud_sound:
+:arrow_forward: [ _Écoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/1f_2OW-AWYdrr_osAJ_PLxEOs0Nsn_Cnw/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |  Français ( :fr: )  |  Italien ( :it: )  |                      :wink:                      |
 |:---:|:-------------------:|:------------------:|:------------------------------------------------:|
@@ -106,7 +106,7 @@ Organisation:
 
 #### :fr: :female_sign: / :it: :male_sign:
 
-:arrow_forward: [ _Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/1kuS1eHsCb3CLxdzTHm40otmDYmtGFq0p/view?usp=sharing) :speaking_head: :loud_sound:
+:arrow_forward: [ _Écoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/1kuS1eHsCb3CLxdzTHm40otmDYmtGFq0p/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |  Français ( :fr: )  |     Italien ( :it: )      |           :wink:           |
 |:---:|:-------------------:|:-------------------------:|:--------------------------:|
