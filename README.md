@@ -1,43 +1,43 @@
-Je cherche des noms communs dont les traductions françaises et italiennens:
+Je cherche des noms communs dont les traductions françaises et italiennes :
 - sont **très ressemblantes**.
 - **et** ont des **genres opposés**. :male_sign: :female_sign:
 
-Par exemple:
-- `plastique` ( :fr: ) **ressemble**, à l'oreille et à l'oeil, à `plastica` ( :it: ).
+Par exemple :
+- `plastique` ( :fr: ) **ressemble**, à l'oreille et à l'œil, à `plastica` ( :it: ).
 - `le plastique` ( :fr: ) est un nom commun **masculin** mais `la plastica` ( :it: ) est **féminin**.
 
 ---
 
 Organisation:
-- Les meilleurs examples sont répertoriés dans la partie [ :1st_place_medal: PREMIER RANG](#1st_place_medal-premier-rang).
-- Les autres dans [ :2nd_place_medal: SECOND RANG](#2nd_place_medal-second-rang).
-- Dans chaque partie, deux tableaux sont présentés:
+- Les meilleurs examples sont répertoriés dans la partie [ :1st_place_medal: PREMIER CHOIX](#1st_place_medal-premier-choix).
+- Les autres dans [ :2nd_place_medal: SECOND CHOIX](#2nd_place_medal-second-choix).
+- Dans chaque partie, deux tableaux sont présentés :
   - Mots masculins français / féminins italiens.
   - Mots féminins français / masculins italiens.
 
 ---
 
-# :1st_place_medal: PREMIER RANG
+# :1st_place_medal: PREMIER CHOIX
 
 #### :fr: :male_sign: / :it: :female_sign:
 
 :arrow_forward: [ _Ecoutez les prononciations (ouvrez ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/139KW9ru4Fcga4WGgYVO7ffmBMN9cu5-2/view?usp=sharing) :speaking_head: :loud_sound:
 
-|  #  |  Français ( :fr: )  |  Italien ( :it: )  |               :wink:               |
-|:---:|:-------------------:|:------------------:|:----------------------------------:|
-|  1  |      le calme       |      la calma      |               :mute:               |
-|  2  |       le chat       |      la chat       | :speech_balloon: (la conversation) |
-|  3  |     le courant      |    la corrente     |              :ocean:               |
-|  4  |      le front       |     la fronte      |      :face_with_head_bandage:      |
-|  5  |      le guide       |      la guida      |             :compass:              |
-|  6  |       le mail       |      la mail       |              :email:               |
-|  7  |     le maillot      |     la maglia      |              :shirt:               |
-|  8  |     le Nutella      |     la Nutella     |          :chocolate_bar:           |
-|  9  |       l'ongle       |      l'unghia      |            :nail_care:             |
-| 10  |       le pipi       |      la pipì       |           :sweat_drops:            |
-| 11  |    le plastique     |    la plastica     |          :lotion_bottle:           |
-| 12  |      le sable       |     la sabbia      |          :beach_umbrella:          |
-| 13  |      le sauna       |      la sauna      |             :hot_face:             |
+|  #  |  Français ( :fr: )  |  Italien ( :it: )  |                :wink:                |
+|:---:|:-------------------:|:------------------:|:------------------------------------:|
+|  1  |      le calme       |      la calma      |                :mute:                |
+|  2  |       le chat       |      la chat       | :speech_balloon: _(la conversation)_ |
+|  3  |     le courant      |    la corrente     |               :ocean:                |
+|  4  |      le front       |     la fronte      |       :face_with_head_bandage:       |
+|  5  |      le guide       |      la guida      |              :compass:               |
+|  6  |       le mail       |      la mail       |               :email:                |
+|  7  |     le maillot      |     la maglia      |               :shirt:                |
+|  8  |     le Nutella      |     la Nutella     |           :chocolate_bar:            |
+|  9  |       l'ongle       |      l'unghia      |             :nail_care:              |
+| 10  |       le pipi       |      la pipì       |            :sweat_drops:             |
+| 11  |    le plastique     |    la plastica     |           :lotion_bottle:            |
+| 12  |      le sable       |     la sabbia      |           :beach_umbrella:           |
+| 13  |      le sauna       |      la sauna      |              :hot_face:              |
 
 ---
 
@@ -76,7 +76,7 @@ Organisation:
 ---
 ---
 
-# :2nd_place_medal: SECOND RANG
+# :2nd_place_medal: SECOND CHOIX
 
 #### :fr: :male_sign: / :it: :female_sign:
 
@@ -144,9 +144,9 @@ Organisation:
 ---
 ---
 
-J'espère que ces tableaux vous ont plu!
-- Si vous avez des **suggestions** ou des **corrections**, n'hésitez pas à m'envoyer une message à `simon.chauvin.contact[at]gmail.com`.
+J'espère que ces tableaux vous ont plu !
+- Si vous avez des **suggestions** ou des **corrections**, n'hésitez pas à m'envoyer un message à `simon.chauvin.contact[at]gmail.com`.
 - Ciao!
 - Simon :smiley:
 
-PS: Peut-être cet autre projet personnel, cette fois-ci à la recherche de mots avec des consonances toutes différentes dans cinq langues, vous interessera: **[5 lingue ( :fr: / :it: / :de: / :uk: / :es: )](https://github.com/chauvinSimon/lingue/blob/master/README.md)**.
+PS : Peut-être cet autre projet personnel, cette fois-ci à la recherche de mots avec des consonances toutes différentes dans cinq langues, vous intéressera : **[5 lingue ( :fr: / :it: / :de: / :uk: / :es: )](https://github.com/chauvinSimon/lingue/blob/master/README.md)**.
