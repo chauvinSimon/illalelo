@@ -53,7 +53,16 @@ def add_fra_it(content: str) -> str:
         ):
 
             _df = df[df["category"] == category]
-            _df = _df.sort_values(by="French", key=lambda col: col.map(key_without_article))
+
+            from icu import Collator, Locale  # to deal with "é"
+
+            collator = Collator.createInstance(Locale('fr_FR'))
+
+            _df = _df.sort_values(
+                by="French",
+                key=lambda col: col.map(lambda x: collator.getSortKey(key_without_article(x)))
+            )
+
 
             _df = _df.drop(columns=["category"])
 
