@@ -16,7 +16,7 @@ mp3_urls = {
     "fra_masc_1": "https://drive.google.com/file/d/1uki_oBu6Alv1QBSI3xBa8D8OAnspnB9R/view?usp=sharing",
     "fra_masc_2": "https://drive.google.com/file/d/14SVAy30CMGbAYQlMVB9LoJnHocQfFJL1/view?usp=sharing",
     "fra_fem_1": "https://drive.google.com/file/d/10oxd6eB8zY_GhDuFI9tgBzeVtIFApO_p/view?usp=sharing",
-    "fra_fem_2": "https://drive.google.com/file/d/1yaov_eOg1XJklURtlzKSC6LYm54g-Qfs/view?usp=sharing",
+    "fra_fem_2": "https://drive.google.com/file/d/1pIbCEsPvn6EiqssAzBtsqBfpkIqm9Z0V/view?usp=sharing",
 }
 
 # sort alphabetically

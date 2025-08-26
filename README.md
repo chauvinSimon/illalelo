@@ -272,7 +272,7 @@ Organisation:
 
 #### :fr: :female_sign: / :it: :male_sign:
 
-:arrow_forward: [ _Écoutez les prononciations (par exemple en ouvrant ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/1yaov_eOg1XJklURtlzKSC6LYm54g-Qfs/view?usp=sharing) :speaking_head: :loud_sound:
+:arrow_forward: [ _Écoutez les prononciations (par exemple en ouvrant ce lien dans un nouvel onglet)_ ](https://drive.google.com/file/d/1pIbCEsPvn6EiqssAzBtsqBfpkIqm9Z0V/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |    Français ( :fr: )    |       Italien ( :it: )       |           :wink:           |
 |:---:|:-----------------------:|:----------------------------:|:--------------------------:|
@@ -281,7 +281,7 @@ Organisation:
 |  3  |       l'aiguille        |            l'ago             |      :sewing_needle:       |
 |  4  |     l'amélioration      |       il miglioramento       |             📈             |
 |  5  |      l'annulation       |        l'annullamento        |             ❌             |
-|  6  |       l'araignée        |           un ragno           |             🕷️             |
+|  6  |       l'araignée        |           il ragno           |             🕷️             |
 |  7  |        l'armoire        |          l'armadio           |           :door:           |
 |  8  |      l'arrestation      |          l'arresto           |        :police_car:        |
 |  9  |        l'asperge        |          l'asparago          |             🥦             |
@@ -304,7 +304,7 @@ Organisation:
 | 26  |        la dictée        |          il dettato          |             ✍️             |
 | 27  |      la diphtongue      |         il dittongo          |             🔤             |
 | 28  |        la donnée        |           il dato            |             💾             |
-| 29  |       l'échalote        |         uno scalogno         |             🧅             |
+| 29  |       l'échalote        |         lo scalogno          |             🧅             |
 | 30  |        l'écoute         |          l'ascolto           |             👂             |
 | 31  |       l'entaille        |          l'intaglio          |             🔪             |
 | 32  |       l'épaisseur       |         lo spessore          |             📏             |
